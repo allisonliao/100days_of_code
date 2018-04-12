@@ -1,0 +1,4 @@
+ID,Description,Exit List,,,,
+O,"You are in a room. There are doors leading to the north, east, and west. The south wall opens into a staircase. What do you do? (north/east/south/west)",north|A,east|B,south|C,west|D,gotofin|END
+A,You are in a room. There is a door , ,,,,
+END,You're done. Yay.,,,,,
