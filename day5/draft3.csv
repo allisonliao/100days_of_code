@@ -5,6 +5,6 @@ B,"You are in a room. There is a door facing north, and the door you went throug
 C,"You ascend the stairs. You are in a room. There is a door facing south. What do you do? (north, south)",,north|O,south|G,,
 D,"You are in room. There is a door going south. What do you do? (east, south)",,east|O,south|H,,
 E,You win.,,,,,
-F,"You are in a room. There is a locked door facing west. What do you do? (south, west)",lock1,south|B,west|A,,
+F,"You are in a room. There is a locked door facing west. What do you do? (south, west)",lock1|west,south|B,west|A,,
 G,You are in a room. There is a key. What do you do? (north),key2,north|C,,,
 H,You are in a room. There is a key. What do you do? (north),key1,north|D,,,
