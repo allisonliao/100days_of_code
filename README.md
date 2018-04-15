@@ -18,6 +18,9 @@ finish writing state game
 ## day 6
 learn strings via snakify.org
 
+## day 7
+learn while loops via snakify.org
+
 
 ## day 35
 learn Pygame
