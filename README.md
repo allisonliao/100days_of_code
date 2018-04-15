@@ -21,6 +21,10 @@ learn strings via snakify.org
 ## day 7
 learn while loops via snakify.org
 
+## day 8
+learn ANSI colors and draw text screens
+
+
 
 ## day 35
 learn Pygame
