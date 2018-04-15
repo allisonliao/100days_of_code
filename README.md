@@ -15,6 +15,9 @@ start to write state game (not using Jupyter notebook)
 ## day 5
 finish writing state game
 
+## day 6
+learn strings via snakify.org
+
 
 ## day 35
 learn Pygame
