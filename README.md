@@ -7,7 +7,7 @@ learn Jupiter workbook and review some python basics
 learn matplotlib and draw functions (sin, cos, exponent, etc.)
 
 ## day 3
-matplotlib with parameterized functions, learn NumPy and benchmark, review nested loops
+learn matplotlib with parameterized functions, learn NumPy and benchmark, review nested loops
 
 ## day 4
 start to write state game (not using Jupyter notebook)
