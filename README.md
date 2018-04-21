@@ -30,6 +30,8 @@ start writing typing tester program
 ## day 10
 skip (not feeling well)
 
+## day 11
+continue typing test program
 
 ## day 35
 learn Pygame
