@@ -1,7 +1,7 @@
 # 100days_of_code
 
 ## day 1
-learn Jupiter workbook and review some python basics
+learn jupyter workbook and review some python basics
 
 ## day 2
 learn matplotlib and draw functions (sin, cos, exponent, etc.)
@@ -22,8 +22,10 @@ learn strings via snakify.org
 learn while loops via snakify.org
 
 ## day 8
-learn ANSI colors and draw text screens
+learn ANSI colors and draw text screens, write functions
 
+## day 9
+start writing typing tester program
 
 
 ## day 35
