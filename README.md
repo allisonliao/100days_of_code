@@ -34,7 +34,7 @@ skip (not feeling well)
 continue typing test program
 
 ## day 12
-snakify.org problems
+do snakify.org problems
 
 ## day 35
 learn Pygame
