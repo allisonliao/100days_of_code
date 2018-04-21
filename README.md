@@ -27,6 +27,9 @@ learn ANSI colors and draw text screens, write functions
 ## day 9
 start writing typing tester program
 
+## day 10
+skip (not feeling well)
+
 
 ## day 35
 learn Pygame
