@@ -42,7 +42,7 @@ snakify.org array/list unit
 ## day 14
 snakify.org array cont.
 
-## day 35
+## day 15
 learn Pygame
 
 ## day 50
