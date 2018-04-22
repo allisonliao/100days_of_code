@@ -39,6 +39,9 @@ snakify.org problems
 ## day 13
 snakify.org array/list unit
 
+## day 14
+snakify.org array cont.
+
 ## day 35
 learn Pygame
 
